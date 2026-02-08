@@ -1,4 +1,5 @@
 {
     "Kolbe 1.0.0": "https://cdn.jsdelivr.net/gh/kolbe-tessarzik/BlockTranslator@610dc1d909af06e59c93d9be06be69c9fc2e38a1/codec.js",
+    "Kolbe 2.0.5": "https://cdn.jsdelivr.net/gh/kolbe-tessarzik/BlockTranslator@406728ae03fed9a3d58013decb6d0ead37323e9a/codec.js?force=1",
     "Fatal 5.0.0": "https://cdn.jsdelivr.net/gh/FatalMistake02/encrypter@261df82c2398ba5a862d6b3236e90251a15af8ba/v5.js"
 }
